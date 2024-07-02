@@ -8,6 +8,8 @@
 /[Bb]uild/
 /[Bb]uild_*/
 /[Bb]uilds/
+/[Bb]uilds_*/
+/mono_crash*
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
