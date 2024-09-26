@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: VisionOSSettings
   m_EditorClassIdentifier: 
   m_AppMode: 0
-  m_HandsTrackingUsageDescription: Hand tracking required for interaction
-  m_WorldSensingUsageDescription: World sensing required for plane detection
-  m_RuntimeSettings: {fileID: 11400000, guid: 5a541de3ef72640308795c435d94a548, type: 2}
-  m_UpperLimbVisibility: 1
+  m_HandsTrackingUsageDescription: 
+  m_WorldSensingUsageDescription: Use world sensing to generate effect
+  m_RuntimeSettings: {fileID: 11400000, guid: c3fa15ba7b1a7472485825f273690b69, type: 2}
+  m_UpperLimbVisibility: 2
   m_FoveatedRendering: 1
   m_MetalImmersionStyle: 1
   m_RealityKitImmersionStyle: 1
-  m_IL2CPPLargeExeWorkaround: 1
+  m_IL2CPPLargeExeWorkaround: 0
   m_SkipPresentToMainScreen: 1

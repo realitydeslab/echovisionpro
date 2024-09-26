@@ -18,7 +18,7 @@ public class MeshVFX : MonoBehaviour
 #if UNITY_IOS
     [SerializeField] TrackedPoseDriver trackedPoseDriver;
 #elif UNITY_VISIONOS
-    [SerializeField] UnityEngine.SpatialTracking.TrackedPoseDriver trackedPoseDriver;
+    [SerializeField] UnityEngine.InputSystem.XR.TrackedPoseDriver trackedPoseDriver;
 #endif
 
     [SerializeField] VisualEffect vfx;

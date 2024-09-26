@@ -50,7 +50,7 @@ public class SoundWaveEmitter : MonoBehaviour
 #endif
 
 #if UNITY_VISIONOS
-    [SerializeField] UnityEngine.SpatialTracking.TrackedPoseDriver trackedPoseDriver;
+    [SerializeField] UnityEngine.InputSystem.XR.TrackedPoseDriver trackedPoseDriver;
 #endif
 
     [SerializeField] HolokitAudioProcessor audioProcessor;

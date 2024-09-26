@@ -1643,8 +1643,8 @@
     "m_ObjectId": "07569c1c4a5b49399e48eb9365324e05",
     "m_Title": "SoundWave Alpha",
     "m_Position": {
-        "x": -176.71664428710938,
-        "y": -987.491943359375
+        "x": -176.5,
+        "y": -987.4998779296875
     }
 }
 
@@ -2040,7 +2040,7 @@
     },
     "m_DefaultValue": {
         "x": 0.0,
-        "y": 0.0
+        "y": 1.0
     },
     "m_Labels": []
 }
@@ -2440,8 +2440,8 @@
         "y": 1.0
     },
     "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0
+        "x": -1.0,
+        "y": 1.0
     },
     "m_Labels": []
 }
@@ -2717,8 +2717,8 @@
         "y": 0.20000000298023225
     },
     "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0
+        "x": -1.0,
+        "y": 1.0
     },
     "m_Labels": []
 }
@@ -2772,7 +2772,7 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -3065,7 +3065,7 @@
     },
     "m_DefaultValue": {
         "x": 0.0,
-        "y": 0.0
+        "y": 1.0
     },
     "m_Labels": []
 }
@@ -3211,7 +3211,7 @@
     },
     "m_DefaultValue": {
         "x": 0.0,
-        "y": 0.0
+        "y": 1.0
     },
     "m_Labels": []
 }
@@ -4025,8 +4025,8 @@
         "y": 1.0
     },
     "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0
+        "x": -1.0,
+        "y": 1.0
     },
     "m_Labels": []
 }
@@ -4083,7 +4083,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -4651,8 +4651,8 @@
         "y": 1.0
     },
     "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0
+        "x": -1.0,
+        "y": 1.0
     },
     "m_Labels": []
 }
@@ -5473,7 +5473,7 @@
     "m_ObjectId": "83ce4a8b11784b5984f602ff07f27ea2",
     "m_Title": "Distance",
     "m_Position": {
-        "x": -1176.0,
+        "x": -1175.9998779296875,
         "y": -375.0
     }
 }
@@ -6463,8 +6463,8 @@
     "m_ObjectId": "a02062cfc6ea45468eec0f5ad39e80a1",
     "m_Title": "Human Stencil",
     "m_Position": {
-        "x": -191.49990844726563,
-        "y": 61.00006103515625
+        "x": -191.5,
+        "y": 61.00014114379883
     }
 }
 
@@ -7637,7 +7637,7 @@
     },
     "m_DefaultValue": {
         "x": 0.0,
-        "y": 0.0
+        "y": 1.0
     },
     "m_Labels": []
 }
@@ -7663,8 +7663,8 @@
     "m_ObjectId": "c6862effefba4e9b8fb65d71fc936340",
     "m_Title": "Sin Wave Core",
     "m_Position": {
-        "x": 214.4072723388672,
-        "y": -1335.8740234375
+        "x": -181.5,
+        "y": -1334.9998779296875
     }
 }
 
@@ -7912,8 +7912,8 @@
     "m_ObjectId": "cf42c5b432814ff19ed1a146f6e727f2",
     "m_Title": "Line Thickness",
     "m_Position": {
-        "x": 377.06146240234377,
-        "y": -1833.9371337890625
+        "x": 377.0,
+        "y": -1833.9998779296875
     }
 }
 
@@ -8584,8 +8584,8 @@
     "m_ObjectId": "e4fafeae5c13416b986e6c57d0503754",
     "m_Title": "Color",
     "m_Position": {
-        "x": 10.0,
-        "y": 10.0
+        "x": -181.5,
+        "y": -475.99993896484377
     }
 }
 
@@ -8647,8 +8647,8 @@
         "y": 10.0
     },
     "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0
+        "x": -1.0,
+        "y": 1.0
     },
     "m_Labels": []
 }
@@ -8711,8 +8711,8 @@
         "y": 1.0
     },
     "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0
+        "x": -1.0,
+        "y": 1.0
     },
     "m_Labels": []
 }
@@ -8832,7 +8832,7 @@
     },
     "m_DefaultValue": {
         "x": 0.0,
-        "y": 0.0
+        "y": 1.0
     },
     "m_Labels": []
 }
@@ -8941,8 +8941,8 @@
     "m_ObjectId": "f2420e33db5440e59905af76f3d28822",
     "m_Title": "Line Density",
     "m_Position": {
-        "x": 10.0,
-        "y": 10.0
+        "x": -181.5,
+        "y": -1681.4998779296875
     }
 }
 
@@ -9185,6 +9185,9 @@
     "m_AlphaClip": false,
     "m_CastShadows": false,
     "m_ReceiveShadows": true,
+    "m_DisableTint": false,
+    "m_AdditionalMotionVectorMode": 0,
+    "m_AlembicMotionVectors": false,
     "m_SupportsLODCrossFade": false,
     "m_CustomEditorGUI": "",
     "m_SupportVFX": false
@@ -9328,8 +9331,8 @@
     "m_ObjectId": "fcba62ef78bb4030b843a3cc81c66779",
     "m_Title": "Sin Base",
     "m_Position": {
-        "x": -1969.9998779296875,
-        "y": -1340.999755859375
+        "x": -1998.999755859375,
+        "y": -1340.9998779296875
     }
 }
 
@@ -9349,7 +9352,7 @@
     },
     "m_DefaultValue": {
         "x": 0.0,
-        "y": 0.0
+        "y": 1.0
     },
     "m_Labels": []
 }
